@@ -1,0 +1,6 @@
+*.class
+output.txt
+
+# IDE files
+.vscode/
+.idea/
